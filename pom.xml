@@ -34,11 +34,11 @@
             <version>1.9</version>
         </dependency>
 
-        <dependency>
-            <groupId>me.whiteship.hello</groupId>
-            <artifactId>chinese-hello-service</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>me.whiteship.hello</groupId>-->
+<!--            <artifactId>chinese-hello-service</artifactId>-->
+<!--            <version>0.0.1-SNAPSHOT</version>-->
+<!--        </dependency>-->
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -57,4 +57,13 @@
         </dependency>
     </dependencies>
 
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.19.1</version>
+            </plugin>
+        </plugins>
+    </build>
 </project>
