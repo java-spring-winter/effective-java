@@ -19,7 +19,7 @@
 |아이템|내용|발표자|발표일자|참고링크|
 |:-:|:---:|:---:|:---:|:-:|
 |1|생성자 대신 정적 팩터리 메서드를 고려하라|임대진|06.04|[LINK](https://www.notion.so/java-spring-winter/5-5fcd6210a17e47cfb2f5f16cdd247cad)|
-|2|생성자에 매개변수가 많다면 빌더를 고려하라|전희진|〃|[LINK](https://h2jinee.notion.site/1-6657e62fab5948febb2fba00c3c53046)|
+|2|생성자에 매개변수가 많다면 빌더를 고려하라|전희진|〃|[LINK](https://h2jinee.notion.site/1-e104185361db4b8f82f145b36fa99a21)|
 |3|private 생성자나 열거 타입으로 싱글턴임을 보증하라|김재호|〃|[LINK](https://velog.io/@chamominedev/series/이펙티브자바)|
 |4|인스턴스화를 막으려거든 private 생성자를 사용하라|전선규|〃|[LINK](https://github.com/sungyujeon/TIL/blob/master/java/effective-java/01_creating-destroying-objects.md)|
 |5|자원을 직접 명시하지 말고 의존 객체 주입을 사용하라|이민지|〃||
